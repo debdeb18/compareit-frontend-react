@@ -41,6 +41,6 @@ There are a total of 5 pages:
   - [x] results grid design
   - [x] product window
 
-___future development
+##### *future development*
 - [ ] profile page
 - [ ] cart and billing
