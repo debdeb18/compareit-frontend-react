@@ -23,7 +23,7 @@ file structure could be seen from `folder structure.txt` file
 and `package.json` contain dependencies details
 
 There are a total of 5 pages:
-1. Home - ``Home.js``
+1. Home - `Home.js`
 2. Product - `Search.js`
 3. About - `About.js`
 4. Login - `Login.js`
