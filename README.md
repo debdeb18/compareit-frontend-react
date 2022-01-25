@@ -1,6 +1,7 @@
 # Comparelt Frontend Code with ReactJS
 
 The original version management is at [our project repository](https://github.com/kellygabriela/CompareIt)
+
 This repository contains the cleaned up version of our code during the finalization stage before final presentation
 made for the purpose of re-documentation only
 
