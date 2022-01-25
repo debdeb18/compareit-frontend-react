@@ -36,10 +36,10 @@ There are a total of 5 pages:
 - [x] About, compare it team composition
 - [x] Login and Signup page
 - [x] Login and signup function using local storage
-- [ ] Search page
-  - [ ] search bar and button
-  - [ ] results grid design
-  - [ ] product window
+- [x] Search page
+  - [x] search bar and button
+  - [x] results grid design
+  - [x] product window
 
 ___future development
 - [ ] profile page
