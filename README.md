@@ -17,7 +17,8 @@ npm install react-router-dom
 
 ## How to run
 1. create a folder in your local computer
-2. ```
+2. clone our repository and `npm start`
+   ```
     git clone https://github.com/debdeb18/compareit-frontend-react.git
     
     cd compareit-frontend-react
