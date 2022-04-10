@@ -29,7 +29,7 @@ npm install react-router-dom
 ## Description Detail
 
 file structure could be seen from `folder structure.txt` file
-and `package.json` contain dependencies details
+and the `package.json` file contain dependencies details
 
 There are a total of 5 pages:
 1. Home - `Home.js`
@@ -50,6 +50,6 @@ There are a total of 5 pages:
   - [x] results grid design
   - [x] product window
 
-##### *future development*
+##### *possible future development*
 - [ ] profile page
 - [ ] cart and billing
